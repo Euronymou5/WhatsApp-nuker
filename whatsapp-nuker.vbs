@@ -1,6 +1,3 @@
-'Hecho por Euronymou5'
-'Github: Euronymou5
-
 Objetivo = InputBox("Escribe el nombre del contacto" & vbNewLine & vbNewLine &  "No uses acentos en el nombre del contacto", "WhatsApp Nuker")
 Mensaje = InputBox("Que mensaje quieres enviar?","WhatsApp Nuker")
 T = InputBox("Cuantas veces quieres enviar el mensaje?" & vbNewLine & vbNewLine & "Escribe un numero entero","WhatsApp Nuker")
