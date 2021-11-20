@@ -11,7 +11,7 @@ If MsgBox("Quieres continuar?" & vbNewLine & vbNewLine & "Presiona NO para cance
  
 	If MsgBox("Esta WhatsApp Web abierto?" & vbNewLine & vbNewLine & "Espera a que la pagina cargue!" & vbNewLine & vbNewLine & "Presiona NO para cancelar!", vbYesNo + vbQuestion + vbSystemModal, "WhatsApp Nuker") = vbYes Then
  
-	MsgBox "No toques el navegador durante el Spameo" & vbNewLine & vbNewLine & "Empezando en 10 segundos.", 1024 + vbSystemModal, "Preparando Spam"
+	MsgBox "No toques el navegador durante el Nukeo" & vbNewLine & vbNewLine & "Empezando en 10 segundos.", 1024 + vbSystemModal, "Preparando Nuker"
  
     WScript.Sleep 50
 	WshShell.SendKeys "{TAB}"
