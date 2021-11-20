@@ -4,7 +4,8 @@ Un simple spammer para WhatsApp hecho en vbscript solo para windows
 # Uso
 Solo pones el nombre del contacto, que mensaje quieres enviar y cuantas veces quieres enviar el mensaje, se te habrira la pagina de whatsapp web y tendras que vincular el dispositivo por codigo qr despues de esto podremos hacer el Nukeo
 
-https://github.com/Euronymou5/WhatsApp-nuker/blob/main/.imagenes/image.png?raw=true
+[![image.png](https://i.postimg.cc/DyptTT3S/image.png)](https://postimg.cc/kB8jQL4C)
+
 # Contacto
 Discord: Negro100pesos#4439
 
