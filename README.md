@@ -12,6 +12,7 @@ Solo pones el nombre del contacto, que mensaje quieres enviar y cuantas veces qu
 [![image.png](https://i.postimg.cc/DyptTT3S/image.png)](https://postimg.cc/kB8jQL4C)
 
 
+[![image.png](https://i.postimg.cc/50psSBxX/image.png)](https://postimg.cc/jww6sJnT)
 
 
 # Contacto
